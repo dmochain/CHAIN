@@ -1,21 +1,21 @@
 Dmomint integration/staging tree
 ================================
-Domino区块浏览器：https://explorer.dmoblock.com
-
-Domino钱包下载：https://www.dmoblock.com/#/wallet
-
-Domino官网：https://www.dmoblock.com
-
-Domino白皮书：https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO-WHITEPAPER-v1.pdf
-
-Domino平台机制：https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMOppt.pdf
-
-Domino一图玩转：https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO.jpg
-
-Domino 平台介绍：https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMO.pdf
-
-Domino 社区动态：https://www.dmoblock.com/#/dynamic?tab=1
-
+Block explorer:
+https://explorer.dmoblock.com
+Wallet download:
+https://www.dmoblock.com/#/wallet
+Official website:
+https://www.dmoblock.com
+white paper:
+https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO-WHITEPAPER-v1.pdf
+Platform mechanism:
+https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMOppt.pdf
+One picture fun:
+https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO.jpg
+Platform Introduction:
+https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMO.pdf
+Community dynamics:
+https://www.dmoblock.com/#/dynamic?tab=1
 
 Copyright (c) 2018 DmoMintCore Developers
 

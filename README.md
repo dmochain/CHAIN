@@ -1,21 +1,20 @@
 Dmomint integration/staging tree
 ================================
-Block explorer:
-https://explorer.dmoblock.com
-Wallet download:
-https://www.dmoblock.com/#/wallet
-Official website:
-https://www.dmoblock.com
-white paper:
-https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO-WHITEPAPER-v1.pdf
-Platform mechanism:
-https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMOppt.pdf
-One picture fun:
-https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO.jpg
-Platform Introduction:
-https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMO.pdf
-Community dynamics:
-https://www.dmoblock.com/#/dynamic?tab=1
+Block explorer:https://explorer.dmoblock.com
+
+Wallet download:https://www.dmoblock.com/#/wallet
+
+Official website:https://www.dmoblock.com
+
+white paper:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO-WHITEPAPER-v1.pdf
+
+Platform mechanism:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMOppt.pdf
+
+One picture fun:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO.jpg
+
+Platform Introduction:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMO.pdf
+
+Community dynamics:https://www.dmoblock.com/#/dynamic?tab=1
 
 Copyright (c) 2018 DmoMintCore Developers
 

@@ -6,7 +6,7 @@ Wallet download:https://www.dmoblock.com/#/wallet
 
 Official website:https://www.dmoblock.com
 
-white paper:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO-WHITEPAPER-v1.pdf
+White paper:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO-WHITEPAPER-v1.pdf
 
 Platform mechanism:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMOppt.pdf
 

@@ -1,4 +1,4 @@
-Dmomint integration/staging tree
+Dmochain integration/staging tree
 ================================
 Block explorer:https://explorer.dmoblock.com
 
@@ -18,13 +18,13 @@ Community dynamics:https://www.dmoblock.com/#/dynamic?tab=1
 
 Copyright (c) 2018 DmoMintCore Developers
 
-What is Dmomint?
+What is Dmochain?
 ----------------
 
-Dmomint is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. dmomint uses peer-to-peer technology to operate
+Dmochain is an experimental new digital currency that enables instant payments to
+anyone, anywhere in the world. Dmochain uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. dmomint is also the name of the open source
+out collectively by the network. Dmochain is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of

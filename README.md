@@ -6,13 +6,13 @@ Wallet download:https://www.dmoblock.com/#/wallet
 
 Official website:https://www.dmoblock.com
 
-White paper:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO-WHITEPAPER-v1.pdf
+White paper:https://down.dmoblock.com/domino/DOMINO-WHITEPAPER-v1.pdf
 
-Platform mechanism:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMOppt.pdf
+Platform mechanism:https://down.dmoblock.com/domino/DMOppt.pdf
 
-One picture fun:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DOMINO.jpg
+One picture fun:https://down.dmoblock.com/domino/DOMINO.jpg
 
-Platform Introduction:https://dappdown.oss-cn-hongkong.aliyuncs.com/domino/DMO.pdf
+Platform Introduction:https://down.dmoblock.com/domino/DMO.pdf
 
 Community dynamics:https://www.dmoblock.com/#/dynamic?tab=1
 

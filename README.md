@@ -6,15 +6,8 @@ Wallet download:https://www.dmoblock.com/#/wallet
 
 Official website:https://www.dmoblock.com
 
-White paper:https://down.dmoblock.com/domino/DOMINO-WHITEPAPER-v1.pdf
+White paper:https://down.dmoblock.com/DMO/DMO-WHITEPAPER.pdf
 
-Platform mechanism:https://down.dmoblock.com/domino/DMOppt.pdf
-
-One picture fun:https://down.dmoblock.com/domino/DOMINO.jpg
-
-Platform Introduction:https://down.dmoblock.com/domino/DMO.pdf
-
-Community dynamics:https://www.dmoblock.com/#/dynamic?tab=1
 
 Copyright (c) 2018 DmoMintCore Developers
 

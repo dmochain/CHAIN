@@ -4,7 +4,7 @@ Block explorer:https://explorer.dmoblock.com
 
 Wallet download:https://www.dmoblock.com/#/wallet
 
-Official website:https://www.dmoblock.com
+Official website:https://www.dmoblock.com 
 
 White paper:https://down.dmoblock.com/DMO/DMO-WHITEPAPER.pdf
 

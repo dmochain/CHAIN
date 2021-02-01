@@ -190,4 +190,3 @@ A new program that can be used to do dmo mining on a GPU is recently release at
 http://polycephaly.org/projects/forcemq/data/MQForceGPU-20180724.tgz
 
 To use it correctly, one may have to do some small adjustments.
-
